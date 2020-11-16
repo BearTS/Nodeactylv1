@@ -1,0 +1,27 @@
+{
+  "name": "nodeactylv1",
+  "version": "1.0.1",
+  "description": "A Nodeactyl fork to work with Pterodactyl V1",
+  "main": "Nodeactyl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BearTS/nodeactlyv1.git"
+  },
+  "keywords": [
+    "Nodeactyl",
+    "Pterodactyl-v1"
+  ],
+  "author": "BearTS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BearTS/nodeactlyv1/issues"
+  },
+  "homepage": "https://github.com/BearTS/nodeactlyv1#readme",
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
